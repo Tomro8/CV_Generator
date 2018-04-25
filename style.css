@@ -1,0 +1,9 @@
+
+.text_input {
+	margin-bottom: 19px;
+}
+
+.active {
+	background-color: rgb(134,181,154);
+	color: white;
+}
